@@ -1,4 +1,3 @@
-
 .idea/.name
 .idea/compiler.xml
 .idea/copyright/profiles_settings.xml
@@ -9,9 +8,6 @@
 .idea/modules.xml
 .idea/vcs.xml
 test/com/wangbin/code/LearningJdkCode.class
-.idea/workspace.xml
-.idea/workspace.xml
-.idea/workspace.xml
 *.class
 .idea/uiDesigner.xml
 .idea/workspace.xml
